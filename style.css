@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section .bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(photo.jpg);
+    background-size: cover;
+    filter: blur(10px);
+    transition: 2s;
+}
+
+.logo {
+    z-index: 1;
+    position: relative;
+    max-width: 200px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    cursor: pointer;
+    transition: 3s;
+}
+
+.logo:hover {
+    filter: blur(10px);
+    transform: scale(2);
+}
+
+.logo:hover~.bg {
+    filter: blur(0);
+    transform: scale(2);
+}
