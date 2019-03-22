@@ -3,6 +3,6 @@
 
 <h2>Screenshots</h2>
 
-<p
+<p>
 <img src="https://github.com/DjalmoCruzJr/onlinetutorials-tutorial-reverse-blur-effects-in-html-and-css/blob/master/screenshots/screenshot.gif?raw=true">
 </p>
