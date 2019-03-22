@@ -1,5 +1,5 @@
-<h1>Example - Reverse Blur Hover Effects in HTML and CSS</h1>
-<p>Example of reverse blur hover effects built in HTML and CSS based on tutorial of OnlineTutorials Youtube Channel.</p>
+<h1>Example - Reverse Blur Hover Effect in HTML and CSS</h1>
+<p>Example of reverse blur hover effect built in HTML and CSS based on tutorial of OnlineTutorials Youtube Channel.</p>
 
 <h2>Screenshots</h2>
 
