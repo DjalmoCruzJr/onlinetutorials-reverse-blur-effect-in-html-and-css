@@ -3,9 +3,6 @@
 
 <h2>Screenshots</h2>
 
-<p>Initial state</p>
-<img src="https://github.com/DjalmoCruzJr/onlinetutorials-tutorial-reverse-blur-effects-in-html-and-css/blob/master/screenshots/screenshot01.png?raw=true">
-
-<p>Final state</p>
-<img src="https://github.com/DjalmoCruzJr/onlinetutorials-tutorial-reverse-blur-effects-in-html-and-css/blob/master/screenshots/screenshot02.png?raw=true">
-
+<p
+<img src="https://github.com/DjalmoCruzJr/onlinetutorials-tutorial-reverse-blur-effects-in-html-and-css/blob/master/screenshots/screenshot.gif?raw=true">
+</p>
